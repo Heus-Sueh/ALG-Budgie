@@ -142,6 +142,7 @@ bluez-utils
 blueman
 
 #Icons & Themes
+materia-gtk-theme
 qogir-gtk-theme
 papirus-icon-theme
 tela-icon-theme-git
