@@ -175,6 +175,6 @@ catfish
 file-roller
 git
 nautilus
-gnome-terminal
+gnome-console
 gnome-software
 gnome-software-packagekit-plugin
