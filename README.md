@@ -1,2 +1,2 @@
-# alg-gnome-pure
-ALG edition with stock XFCE 4.
+# Arch Linux GUI Budgie Desktop
+Arch Linux GUI with Budgie Desktop Customized by me.
