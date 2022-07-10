@@ -169,8 +169,12 @@ firefox
 vlc
 neofetch
 xdotool
-libreoffice-fresh
+#libreoffice-fresh
 gparted
 catfish
 file-roller
 git
+nautilus
+gnome-terminal
+gnome-software
+gnome-software-packagekit-plugin
