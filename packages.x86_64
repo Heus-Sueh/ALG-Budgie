@@ -110,6 +110,7 @@ budgie-network-applet
 budgie-screenshot-applet
 budgie-screensaver
 budgie-desktop-view
+budgie-sntray-git
 xorg-server
 xorg-xrandr
 xorg-xkill
@@ -189,3 +190,4 @@ gnome-console
 gnome-software
 gnome-software-packagekit-plugin
 gnome-tweaks
+plank
