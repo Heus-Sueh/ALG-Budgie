@@ -105,6 +105,10 @@ zsh
 #Arch Linux GUI Budgie
 budgie-desktop
 budgie-extras
+budgie-control-center
+budgie-network-applet
+budgie-screenshot-applet
+budgie-screensaver
 budgie-desktop-view
 xorg-server
 xorg-xrandr
@@ -171,12 +175,17 @@ vlc
 neofetch
 xdotool
 #libreoffice-fresh
-gparted
-catfish
 file-roller
+evince
+fwupd
 git
-nautilus
+celluloid
+nemo
+gedit
+gnome-firmware
+gnome-disk-utility
+gnome-calculator
 gnome-console
 gnome-software
 gnome-software-packagekit-plugin
-gnome-control-center
+gnome-tweaks
